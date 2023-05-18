@@ -2,4 +2,4 @@
 "changesets_demo": minor
 ---
 
-Modified Foo method
+Updated Text for Fab function

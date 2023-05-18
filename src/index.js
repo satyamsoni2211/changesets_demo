@@ -8,7 +8,7 @@ function foo() {
     return 'bar is one'
 }
 function fab() {
-    return "Wow this is fab"
+    return "Wow this is fab !"
 }
 exports.default = greet;
 exports.sum = sum;
