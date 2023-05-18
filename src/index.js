@@ -10,7 +10,12 @@ function foo() {
 function fab() {
     return "Wow this is fab !"
 }
+function name(params) {
+    console.log(params)
+}
+
 exports.default = greet;
 exports.sum = sum;
 exports.foo = foo;
 exports.fab = fab;
+exports.name = name;
