@@ -1,5 +1,13 @@
 # changesets_demo
 
+## 2.3.0
+
+### Minor Changes
+
+- [`19e0f16`](https://github.com/satyamsoni2211/changesets_demo/commit/19e0f16d26f2cd2aada94ace565871d8a3b8e47d) - Updated Text for Fab function
+
+- [`19df41f`](https://github.com/satyamsoni2211/changesets_demo/commit/19df41faaccacac10385f7b5364fe67c0504db15) - Added new method Name
+
 ## 2.2.0
 
 ### Minor Changes
