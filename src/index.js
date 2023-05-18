@@ -7,6 +7,10 @@ function sum(...params) {
 function foo() {
     return 'bar'
 }
+function fab() {
+    return "Wow this is fab"
+}
 exports.default = greet;
 exports.sum = sum;
 exports.foo = foo;
+exports.fab = fab;
